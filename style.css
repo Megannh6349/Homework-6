@@ -1,9 +1,21 @@
-nav {
-    background-color: darkslategray;
+body {
+    margin: 0;
+    padding: 0;
 }
 
-h2 {
+header {
+    background-color: darkslategray;
     color: whitesmoke;
-    padding: 10px 0px 10px 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
+    margin: 0px 0px 25px 0px;
+}
+
+.search {
+    border: 1px black solid;
+}
+
+.content {
+    border: 1px black solid;
 }
