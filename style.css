@@ -16,6 +16,10 @@ header {
     border: 1px black solid;
 }
 
+form {
+    float: left;
+}
+
 .content {
     border: 1px black solid;
 }
