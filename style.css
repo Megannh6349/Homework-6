@@ -12,14 +12,18 @@ header {
     margin: 0px 0px 25px 0px;
 }
 
-/* .search {
-    border: 1px black solid;
-} */
-
 form {
     float: left;
 }
 
-/* .content {
-    border: 1px black solid;
-} */
+footer {
+    background-color: darkslategray;
+    color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
